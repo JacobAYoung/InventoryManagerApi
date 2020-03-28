@@ -1,0 +1,15 @@
+C:\Users\Jake\Documents\GitHub\InventoryManagement\Domain\Domain.Product\Domain.Product.DataContract\bin\Debug\netcoreapp3.1\Domain.Product.DataContract.deps.json
+C:\Users\Jake\Documents\GitHub\InventoryManagement\Domain\Domain.Product\Domain.Product.DataContract\bin\Debug\netcoreapp3.1\Domain.Product.DataContract.dll
+C:\Users\Jake\Documents\GitHub\InventoryManagement\Domain\Domain.Product\Domain.Product.DataContract\bin\Debug\netcoreapp3.1\Domain.Product.DataContract.pdb
+C:\Users\Jake\Documents\GitHub\InventoryManagement\Domain\Domain.Product\Domain.Product.DataContract\obj\Debug\netcoreapp3.1\Domain.Product.DataContract.AssemblyInfoInputs.cache
+C:\Users\Jake\Documents\GitHub\InventoryManagement\Domain\Domain.Product\Domain.Product.DataContract\obj\Debug\netcoreapp3.1\Domain.Product.DataContract.AssemblyInfo.cs
+C:\Users\Jake\Documents\GitHub\InventoryManagement\Domain\Domain.Product\Domain.Product.DataContract\obj\Debug\netcoreapp3.1\Domain.Product.DataContract.dll
+C:\Users\Jake\Documents\GitHub\InventoryManagement\Domain\Domain.Product\Domain.Product.DataContract\obj\Debug\netcoreapp3.1\Domain.Product.DataContract.pdb
+C:\Users\Jake\Documents\GitHub\InventoryManagement\Domain\Domain.Product\Domain.Product.DataContract\obj\Debug\netcoreapp3.1\Domain.Product.DataContract.csprojAssemblyReference.cache
+C:\Users\Jake\source\repos\Domain\Domain.Product\Domain.Product.DataContract\bin\Debug\netcoreapp3.1\Domain.Product.DataContract.deps.json
+C:\Users\Jake\source\repos\Domain\Domain.Product\Domain.Product.DataContract\bin\Debug\netcoreapp3.1\Domain.Product.DataContract.dll
+C:\Users\Jake\source\repos\Domain\Domain.Product\Domain.Product.DataContract\bin\Debug\netcoreapp3.1\Domain.Product.DataContract.pdb
+C:\Users\Jake\source\repos\Domain\Domain.Product\Domain.Product.DataContract\obj\Debug\netcoreapp3.1\Domain.Product.DataContract.AssemblyInfoInputs.cache
+C:\Users\Jake\source\repos\Domain\Domain.Product\Domain.Product.DataContract\obj\Debug\netcoreapp3.1\Domain.Product.DataContract.AssemblyInfo.cs
+C:\Users\Jake\source\repos\Domain\Domain.Product\Domain.Product.DataContract\obj\Debug\netcoreapp3.1\Domain.Product.DataContract.dll
+C:\Users\Jake\source\repos\Domain\Domain.Product\Domain.Product.DataContract\obj\Debug\netcoreapp3.1\Domain.Product.DataContract.pdb

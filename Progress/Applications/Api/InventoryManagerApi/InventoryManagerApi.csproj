@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.2.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.2.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.2.1" />
+    <PackageReference Include="Serilog.Extensions.Logging.File" Version="2.0.0" />
+    <PackageReference Include="DLogger.Extensions.Logging" Version="1.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.Log\Domain.Log.Logger\Domain.Log.Logger.csproj" />
+    <ProjectReference Include="..\Domain\Domain.Product\Domain.Product.Business\Domain.Product.Business.csproj" />
+    <ProjectReference Include="..\Domain\Domain.Product\Domain.Product.DataContract\Domain.Product.DataContract.csproj" />
+  </ItemGroup>
+
+
+</Project>

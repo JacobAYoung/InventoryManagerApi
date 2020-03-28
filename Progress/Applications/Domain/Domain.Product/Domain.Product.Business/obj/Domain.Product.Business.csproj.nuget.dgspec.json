@@ -1,0 +1,194 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.Business\\Domain.Product.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.Business\\Domain.Product.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.Business\\Domain.Product.Business.csproj",
+        "projectName": "Domain.Product.Business",
+        "projectPath": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.Business\\Domain.Product.Business.csproj",
+        "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataAccess\\Domain.Product.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataAccess\\Domain.Product.DataAccess.csproj"
+              },
+              "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj": {
+                "projectPath": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataAccess\\Domain.Product.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataAccess\\Domain.Product.DataAccess.csproj",
+        "projectName": "Domain.Product.DataAccess",
+        "projectPath": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataAccess\\Domain.Product.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj": {
+                "projectPath": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj",
+        "projectName": "Domain.Product.DataContract",
+        "projectPath": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj",
+        "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataContract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

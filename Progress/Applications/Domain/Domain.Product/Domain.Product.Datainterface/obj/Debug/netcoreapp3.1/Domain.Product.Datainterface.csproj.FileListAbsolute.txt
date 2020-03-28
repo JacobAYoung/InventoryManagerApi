@@ -1,0 +1,14 @@
+C:\Users\Jake\Documents\GitHub\InventoryManagement\Domain\Domain.Product\Domain.Product.Datainterface\bin\Debug\netcoreapp3.1\Domain.Product.Datainterface.deps.json
+C:\Users\Jake\Documents\GitHub\InventoryManagement\Domain\Domain.Product\Domain.Product.Datainterface\bin\Debug\netcoreapp3.1\Domain.Product.Datainterface.dll
+C:\Users\Jake\Documents\GitHub\InventoryManagement\Domain\Domain.Product\Domain.Product.Datainterface\bin\Debug\netcoreapp3.1\Domain.Product.Datainterface.pdb
+C:\Users\Jake\Documents\GitHub\InventoryManagement\Domain\Domain.Product\Domain.Product.Datainterface\obj\Debug\netcoreapp3.1\Domain.Product.Datainterface.AssemblyInfoInputs.cache
+C:\Users\Jake\Documents\GitHub\InventoryManagement\Domain\Domain.Product\Domain.Product.Datainterface\obj\Debug\netcoreapp3.1\Domain.Product.Datainterface.AssemblyInfo.cs
+C:\Users\Jake\Documents\GitHub\InventoryManagement\Domain\Domain.Product\Domain.Product.Datainterface\obj\Debug\netcoreapp3.1\Domain.Product.Datainterface.dll
+C:\Users\Jake\Documents\GitHub\InventoryManagement\Domain\Domain.Product\Domain.Product.Datainterface\obj\Debug\netcoreapp3.1\Domain.Product.Datainterface.pdb
+C:\Users\Jake\source\repos\Domain\Domain.Product\Domain.Product.Datainterface\bin\Debug\netcoreapp3.1\Domain.Product.Datainterface.deps.json
+C:\Users\Jake\source\repos\Domain\Domain.Product\Domain.Product.Datainterface\bin\Debug\netcoreapp3.1\Domain.Product.Datainterface.dll
+C:\Users\Jake\source\repos\Domain\Domain.Product\Domain.Product.Datainterface\bin\Debug\netcoreapp3.1\Domain.Product.Datainterface.pdb
+C:\Users\Jake\source\repos\Domain\Domain.Product\Domain.Product.Datainterface\obj\Debug\netcoreapp3.1\Domain.Product.Datainterface.AssemblyInfoInputs.cache
+C:\Users\Jake\source\repos\Domain\Domain.Product\Domain.Product.Datainterface\obj\Debug\netcoreapp3.1\Domain.Product.Datainterface.AssemblyInfo.cs
+C:\Users\Jake\source\repos\Domain\Domain.Product\Domain.Product.Datainterface\obj\Debug\netcoreapp3.1\Domain.Product.Datainterface.dll
+C:\Users\Jake\source\repos\Domain\Domain.Product\Domain.Product.Datainterface\obj\Debug\netcoreapp3.1\Domain.Product.Datainterface.pdb
