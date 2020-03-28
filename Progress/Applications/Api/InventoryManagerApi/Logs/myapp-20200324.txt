@@ -1,4 +1,0 @@
-2020-03-24T19:29:12.3246075-05:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
-2020-03-24T19:29:12.3299955-05:00  [INF] Hosting environment: "Development" (c3307c92)
-2020-03-24T19:29:12.3311991-05:00  [INF] Content root path: "C:\Users\Jake\source\repos\InventoryManagerApi" (b5d60022)
-2020-03-24T19:29:17.2137576-05:00 80000032-0006-ff00-b63f-84710c7967bb [INF] test (3f75ccc1)
