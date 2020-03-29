@@ -13,9 +13,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Domain\Domain.Log\Domain.Log.Logger\Domain.Log.Logger.csproj" />
-    <ProjectReference Include="..\Domain\Domain.Product\Domain.Product.Business\Domain.Product.Business.csproj" />
-    <ProjectReference Include="..\Domain\Domain.Product\Domain.Product.DataContract\Domain.Product.DataContract.csproj" />
+    <ProjectReference Include="..\..\Domain\Domain.Product\Domain.Product.Business\Domain.Product.Business.csproj" />
+    <ProjectReference Include="..\..\Domain\Domain.Product\Domain.Product.DataContract\Domain.Product.DataContract.csproj" />
+    <ProjectReference Include="..\..\Domain\Domain.Log\Domain.Log.Logger\Domain.Log.Logger.csproj" />
   </ItemGroup>
 
 

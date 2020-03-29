@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.Datainterface\\Domain.Product.Datainterface.csproj": {}
+    "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.Datainterface\\Domain.Product.Datainterface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.Datainterface\\Domain.Product.Datainterface.csproj": {
+    "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.Datainterface\\Domain.Product.Datainterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.Datainterface\\Domain.Product.Datainterface.csproj",
+        "projectUniqueName": "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.Datainterface\\Domain.Product.Datainterface.csproj",
         "projectName": "Domain.Product.Datainterface",
-        "projectPath": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.Datainterface\\Domain.Product.Datainterface.csproj",
+        "projectPath": "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.Datainterface\\Domain.Product.Datainterface.csproj",
         "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.Datainterface\\obj\\",
+        "outputPath": "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.Datainterface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

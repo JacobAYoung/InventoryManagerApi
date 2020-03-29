@@ -6,3 +6,11 @@ C:\Users\Jake\source\repos\Domain\Domain.Log\Domain.Log.Logger\obj\Debug\netcore
 C:\Users\Jake\source\repos\Domain\Domain.Log\Domain.Log.Logger\bin\Debug\netcoreapp3.1\Domain.Log.Logger.pdb
 C:\Users\Jake\source\repos\Domain\Domain.Log\Domain.Log.Logger\obj\Debug\netcoreapp3.1\Domain.Log.Logger.dll
 C:\Users\Jake\source\repos\Domain\Domain.Log\Domain.Log.Logger\obj\Debug\netcoreapp3.1\Domain.Log.Logger.pdb
+C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Log\Domain.Log.Logger\bin\Debug\netcoreapp3.1\Domain.Log.Logger.deps.json
+C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Log\Domain.Log.Logger\bin\Debug\netcoreapp3.1\Domain.Log.Logger.dll
+C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Log\Domain.Log.Logger\bin\Debug\netcoreapp3.1\Domain.Log.Logger.pdb
+C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Log\Domain.Log.Logger\obj\Debug\netcoreapp3.1\Domain.Log.Logger.csprojAssemblyReference.cache
+C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Log\Domain.Log.Logger\obj\Debug\netcoreapp3.1\Domain.Log.Logger.AssemblyInfoInputs.cache
+C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Log\Domain.Log.Logger\obj\Debug\netcoreapp3.1\Domain.Log.Logger.AssemblyInfo.cs
+C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Log\Domain.Log.Logger\obj\Debug\netcoreapp3.1\Domain.Log.Logger.dll
+C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Log\Domain.Log.Logger\obj\Debug\netcoreapp3.1\Domain.Log.Logger.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.Business\\Domain.Product.Business.csproj": {}
+    "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.Business\\Domain.Product.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.Business\\Domain.Product.Business.csproj": {
+    "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.Business\\Domain.Product.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.Business\\Domain.Product.Business.csproj",
+        "projectUniqueName": "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.Business\\Domain.Product.Business.csproj",
         "projectName": "Domain.Product.Business",
-        "projectPath": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.Business\\Domain.Product.Business.csproj",
+        "projectPath": "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.Business\\Domain.Product.Business.csproj",
         "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.Business\\obj\\",
+        "outputPath": "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataAccess\\Domain.Product.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataAccess\\Domain.Product.DataAccess.csproj"
+              "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.DataAccess\\Domain.Product.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.DataAccess\\Domain.Product.DataAccess.csproj"
               },
-              "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj": {
-                "projectPath": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj"
+              "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj": {
+                "projectPath": "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataAccess\\Domain.Product.DataAccess.csproj": {
+    "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.DataAccess\\Domain.Product.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataAccess\\Domain.Product.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.DataAccess\\Domain.Product.DataAccess.csproj",
         "projectName": "Domain.Product.DataAccess",
-        "projectPath": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataAccess\\Domain.Product.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.DataAccess\\Domain.Product.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -92,8 +92,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj": {
-                "projectPath": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj"
+              "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj": {
+                "projectPath": "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj"
               }
             }
           }
@@ -135,14 +135,14 @@
         }
       }
     },
-    "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj": {
+    "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj",
+        "projectUniqueName": "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj",
         "projectName": "Domain.Product.DataContract",
-        "projectPath": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj",
+        "projectPath": "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj",
         "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jake\\source\\repos\\Domain\\Domain.Product\\Domain.Product.DataContract\\obj\\",
+        "outputPath": "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.DataContract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

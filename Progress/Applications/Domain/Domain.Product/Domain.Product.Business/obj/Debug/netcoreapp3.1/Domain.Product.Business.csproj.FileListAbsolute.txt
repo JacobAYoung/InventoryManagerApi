@@ -18,3 +18,16 @@ C:\Users\Jake\source\repos\Domain\Domain.Product\Domain.Product.Business\obj\Deb
 C:\Users\Jake\source\repos\Domain\Domain.Product\Domain.Product.Business\obj\Debug\netcoreapp3.1\Domain.Product.Business.csproj.CopyComplete
 C:\Users\Jake\source\repos\Domain\Domain.Product\Domain.Product.Business\obj\Debug\netcoreapp3.1\Domain.Product.Business.dll
 C:\Users\Jake\source\repos\Domain\Domain.Product\Domain.Product.Business\obj\Debug\netcoreapp3.1\Domain.Product.Business.pdb
+C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.Business\bin\Debug\netcoreapp3.1\Domain.Product.Business.deps.json
+C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.Business\bin\Debug\netcoreapp3.1\Domain.Product.Business.dll
+C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.Business\bin\Debug\netcoreapp3.1\Domain.Product.Business.pdb
+C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.Business\bin\Debug\netcoreapp3.1\Domain.Product.DataAccess.dll
+C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.Business\bin\Debug\netcoreapp3.1\Domain.Product.DataContract.dll
+C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.Business\bin\Debug\netcoreapp3.1\Domain.Product.DataAccess.pdb
+C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.Business\bin\Debug\netcoreapp3.1\Domain.Product.DataContract.pdb
+C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.Business\obj\Debug\netcoreapp3.1\Domain.Product.Business.csprojAssemblyReference.cache
+C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.Business\obj\Debug\netcoreapp3.1\Domain.Product.Business.AssemblyInfoInputs.cache
+C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.Business\obj\Debug\netcoreapp3.1\Domain.Product.Business.AssemblyInfo.cs
+C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.Business\obj\Debug\netcoreapp3.1\Domain.Product.Business.csproj.CopyComplete
+C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.Business\obj\Debug\netcoreapp3.1\Domain.Product.Business.dll
+C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.Business\obj\Debug\netcoreapp3.1\Domain.Product.Business.pdb

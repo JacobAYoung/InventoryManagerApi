@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 using Domain.Product.Business;
 using Domain.Product.DataContract;
 using Microsoft.AspNetCore.Mvc;
