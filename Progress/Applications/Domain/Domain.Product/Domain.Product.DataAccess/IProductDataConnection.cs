@@ -7,5 +7,7 @@ namespace Domain.Product.DataAccess
         List<DataContract.Product> GetProducts();
 
         DataContract.Product GetProductBySku(int sku);
+
+        bool UpdateProductQuantityBySku(DataContract.Product product);
     }
 }

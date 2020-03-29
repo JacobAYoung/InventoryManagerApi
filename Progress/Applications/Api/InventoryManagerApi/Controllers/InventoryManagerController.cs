@@ -23,8 +23,6 @@ namespace InventoryManagerApi.Controllers
         {
             var model = new InventoryModel(sku);
             var products = model.Products;
-            _logger.LogInformation("Products");
-            _logger.LogWarning("Products");
             return products;
         }
     }

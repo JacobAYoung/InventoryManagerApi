@@ -1,5 +1,5 @@
 ﻿using Domain.Product.DataAccess;
-using System;
+using System.Linq;
 using System.Collections.Generic;
 
 namespace Domain.Product.Business
@@ -28,6 +28,16 @@ namespace Domain.Product.Business
         private void GetProductBySku(int sku)
         {
             Products.Add(ProductDataConnection.GetProductBySku(sku));
+        }
+
+        public bool UpdateProduct(int sku)
+        {
+            var product = Products.SingleOrDefault(product => product.Sku == sku);
+            if (product == null)
+            {
+                return ProductDataConnection.UpdateProductQuantityBySku(product);
+            }
+            return false;
         }
     }
 }
