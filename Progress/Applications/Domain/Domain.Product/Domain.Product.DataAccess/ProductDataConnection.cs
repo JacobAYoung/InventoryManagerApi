@@ -64,7 +64,7 @@ namespace Domain.Product.DataAccess
                         cost = query.ReadFirstOrDefault<ProductCost>();
                         quantity = query.ReadFirstOrDefault<ProductQuantity>();
                     }
-                    product.Cost = cost;
+
                     if (product != null)
                     {
                         product.Cost = cost;
