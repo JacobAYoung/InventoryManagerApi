@@ -25,7 +25,7 @@ namespace InventoryManagerApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-
+            services.AddTransient<ILogger, Logger>();
             services.AddMvc();
             services.AddSwaggerGen(c =>
             {
