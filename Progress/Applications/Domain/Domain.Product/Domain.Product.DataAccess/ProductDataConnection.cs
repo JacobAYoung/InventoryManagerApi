@@ -11,7 +11,7 @@ namespace Domain.Product.DataAccess
 {
     public class ProductDataConnection : IProductDataConnection
     {
-        private readonly string ConnectionString = "Server=(localdb)\\localdb;Database=Product;Trusted_Connection=True;";
+        private readonly string ConnectionString = "Server=localhost;Database=Product;Trusted_Connection=True;";
 
         private ILogger _logger = new Logger(nameof(ProductDataConnection));
 
@@ -56,6 +56,7 @@ namespace Domain.Product.DataAccess
             ProductQuantity quantity = new ProductQuantity();
             try
             {
+                //ConnectionString = "Server=localhost;Database=Product;Trusted_Connection=True;"
                 using (SqlConnection connection = new SqlConnection(ConnectionString))
                 {
                     using (var query = connection.QueryMultiple("[dbo].[ptsp_GetAllProductInfoBySku]", new { Sku = sku }, commandType: System.Data.CommandType.StoredProcedure))

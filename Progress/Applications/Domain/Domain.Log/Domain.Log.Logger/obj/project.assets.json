@@ -624,23 +624,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jake\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\yjake\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Log\\Domain.Log.Logger\\Domain.Log.Logger.csproj",
+      "projectUniqueName": "C:\\Users\\yjake\\OneDrive\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Log\\Domain.Log.Logger\\Domain.Log.Logger.csproj",
       "projectName": "Domain.Log.Logger",
-      "projectPath": "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Log\\Domain.Log.Logger\\Domain.Log.Logger.csproj",
-      "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Log\\Domain.Log.Logger\\obj\\",
+      "projectPath": "C:\\Users\\yjake\\OneDrive\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Log\\Domain.Log.Logger\\Domain.Log.Logger.csproj",
+      "packagesPath": "C:\\Users\\yjake\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yjake\\OneDrive\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Log\\Domain.Log.Logger\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Jake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yjake\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -696,7 +692,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

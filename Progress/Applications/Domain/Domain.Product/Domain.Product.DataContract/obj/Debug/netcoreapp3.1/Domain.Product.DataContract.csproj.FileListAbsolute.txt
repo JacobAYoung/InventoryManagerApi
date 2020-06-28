@@ -20,3 +20,12 @@ C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\
 C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.DataContract\obj\Debug\netcoreapp3.1\Domain.Product.DataContract.AssemblyInfo.cs
 C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.DataContract\obj\Debug\netcoreapp3.1\Domain.Product.DataContract.dll
 C:\Users\Jake\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.DataContract\obj\Debug\netcoreapp3.1\Domain.Product.DataContract.pdb
+C:\Users\yjake\OneDrive\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.DataContract\bin\Debug\netcoreapp3.1\Domain.Product.DataContract.deps.json
+C:\Users\yjake\OneDrive\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.DataContract\bin\Debug\netcoreapp3.1\Domain.Product.DataContract.dll
+C:\Users\yjake\OneDrive\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.DataContract\bin\Debug\netcoreapp3.1\Domain.Product.DataContract.pdb
+C:\Users\yjake\OneDrive\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.DataContract\obj\Debug\netcoreapp3.1\Domain.Product.DataContract.csprojAssemblyReference.cache
+C:\Users\yjake\OneDrive\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.DataContract\obj\Debug\netcoreapp3.1\Domain.Product.DataContract.AssemblyInfoInputs.cache
+C:\Users\yjake\OneDrive\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.DataContract\obj\Debug\netcoreapp3.1\Domain.Product.DataContract.AssemblyInfo.cs
+C:\Users\yjake\OneDrive\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.DataContract\obj\Debug\netcoreapp3.1\Domain.Product.DataContract.csproj.CoreCompileInputs.cache
+C:\Users\yjake\OneDrive\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.DataContract\obj\Debug\netcoreapp3.1\Domain.Product.DataContract.dll
+C:\Users\yjake\OneDrive\Documents\GitHub\InventoryManagerApi\Progress\Applications\Domain\Domain.Product\Domain.Product.DataContract\obj\Debug\netcoreapp3.1\Domain.Product.DataContract.pdb

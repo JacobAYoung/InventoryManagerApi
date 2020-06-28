@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Jake\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\yjake\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj",
+      "projectUniqueName": "C:\\Users\\yjake\\OneDrive\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj",
       "projectName": "Domain.Product.DataContract",
-      "projectPath": "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj",
-      "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jake\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.DataContract\\obj\\",
+      "projectPath": "C:\\Users\\yjake\\OneDrive\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.DataContract\\Domain.Product.DataContract.csproj",
+      "packagesPath": "C:\\Users\\yjake\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yjake\\OneDrive\\Documents\\GitHub\\InventoryManagerApi\\Progress\\Applications\\Domain\\Domain.Product\\Domain.Product.DataContract\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Jake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yjake\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -62,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
